@@ -1,2 +1,2 @@
-# Python-TD-Tasks
-Assignments of Python for Tutedude
+# Python-TD-Assignments
+Tutedude Assignments and Tasks for Python
